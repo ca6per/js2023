@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7d0d231-e240-479a-947c-74438308b88c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework/how1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/how1/main.js" afterDir="false" />
+    <list default="true" id="d7d0d231-e240-479a-947c-74438308b88c" name="Changes" comment="hm1">
+      <change afterPath="$PROJECT_DIR$/Homework/how2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/how2/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LvN3m39FnLsaFtPDI00BSWyzpg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -54,11 +57,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676747402248</updated>
-      <workItem from="1676747403424" duration="1518000" />
+      <workItem from="1676747403424" duration="2970000" />
     </task>
+    <task id="LOCAL-00001" summary="hm1">
+      <created>1676751206925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676751206925</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hm1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm1" />
   </component>
 </project>

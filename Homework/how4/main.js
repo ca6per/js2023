@@ -1,22 +1,15 @@
 // - створити функцію яка обчислює та повертає площу прямокутника зі сторонами а і б
-
-
 function square(a, b) {
     return a * b;
 }
-
 console.log(square(10, 20));
 console.log(square(20, 30));
 
-
 // - створити функцію яка обчислює та повертає площу кола з радіусом r
-
 function piRPow(r) {
     // console.log(3.14 * r * r)
     return 3.14 * r * r;
-
 }
-
 
 // - створити функцію яка обчислює та повертає площу циліндру висотою h, та радіутом r
 function cilinderSquare(r, h) {
@@ -32,60 +25,50 @@ function arrayPrinter(arr) {
 }
 
 // - створити функцію яка створює параграф з текстом. Текст задати через аргумteент
-
 function paragraphCreator(text) {
     document.write(`<p>${text}</p>`);
 }
-
-// paragraphCreator('hello');
-// paragraphCreator('57423547');
-// paragraphCreator(1236412635);
-// paragraphCreator(true);
+// paragraphCreator('hi');
+// paragraphCreator('123452');
+// paragraphCreator(674352);
+// paragraphCreator(flase);
+//paragraphCreator(plusplus);
 
 // - створити функцію яка створює ul з трьома елементами li. Текст li задати через аргумент всім однаковий
 function liCreator(txt) {
-
     document.write(`<ul>`);
     document.write(`<li>${txt}</li>`)
     document.write(`<li>${txt}</li>`)
     document.write(`<li>${txt}</li>`)
     document.write(`</ul>`);
-
 }
 
 // - створити функцію яка створює ul з li.
 // Текст li задати через аргумент всім однаковий.
 // Кількість li визначається другим аргументом, який є числовим (тут використовувати цикл)
-
-
-function liCreator2(txt, counter) {
+function liCreator2(text, counter) {
     document.write(`<ul>`);
     for (let i = 0; i < counter; i++) {
-        document.write(`<li>${txt}</li>`);
+        document.write(`<li>${text}</li>`);
     }
     document.write(`</ul>`);
 }
 
-
 // - створити функцію яка приймає масив примітивних елементів (числа,стрінги,булеві),
 // та будує для них список
 function listCreator(arr) {
-
     document.write('<ul>');
     for (const item of arr) {
         document.write(`<li>${item}</li>`);
     }
     document.write('</ul>');
-
 }
 
-listCreator([11, 22, 'asda', 'qweqw', true]);
+listCreator([1, 2, 'parapam', 'blebbleb', true, 'lala', '234']);
 
 // - створити функцію яка приймає масив об'єктів
 // з наступними полями id,name,age , та виводить їх в документ.
 // Для кожного об'єкту окремий блок.
-
-
 function objBlockCreator(objects) {
     for (const item of objects) {
         document.write(`<div>${item.id} ${item.name} ${item.age}</div>`);
@@ -93,18 +76,16 @@ function objBlockCreator(objects) {
 }
 
 // - створити функцію яка повертає найменьше число з масиву
-function minNum(numbers) {
-
+function minNum(numbers){
     let min = numbers[0];
     for (const number of numbers) {
-        if (min > number) {
-            min = number
+        if(min<numbers){
+            min=numbers
         }
     }
     return min;
 }
-
-minNum([-11, -22, -33]);
+minNum([-11,-22,-33]);
 
 // - створити функцію sum(arr)яка приймає масив чисел,
 // сумує значення елементів масиву та повертає його. Приклад sum([1,2,10]) //->13
@@ -153,9 +134,3 @@ console.log(exchange(
     ],
     'USD'
 ));
-
-
-(function (a, b) {
-    console.log(a + b);
-}(10, 20));
-

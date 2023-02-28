@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7d0d231-e240-479a-947c-74438308b88c" name="Changes" comment="hm2">
-      <change afterPath="$PROJECT_DIR$/Homework/how3/index.html" afterDir="false" />
+    <list default="true" id="d7d0d231-e240-479a-947c-74438308b88c" name="Changes" comment="hm4">
+      <change afterPath="$PROJECT_DIR$/Homework/how4/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/how4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/how4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -41,6 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -57,7 +60,9 @@
       <option name="presentableId" value="Default" />
       <updated>1676747402248</updated>
       <workItem from="1676747403424" duration="2988000" />
-      <workItem from="1677102488445" duration="620000" />
+      <workItem from="1677102488445" duration="1111000" />
+      <workItem from="1677359447274" duration="624000" />
+      <workItem from="1677620742449" duration="846000" />
     </task>
     <task id="LOCAL-00001" summary="hm1">
       <created>1676751206925</created>
@@ -73,7 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676756491412</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hm3">
+      <created>1677103245057</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677103245057</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hm4">
+      <created>1677103325799</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677103325799</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +101,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hm1" />
     <MESSAGE value="hm2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hm2" />
+    <MESSAGE value="hm3" />
+    <MESSAGE value="hm4" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm4" />
   </component>
 </project>

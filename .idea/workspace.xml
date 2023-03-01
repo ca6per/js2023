@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7d0d231-e240-479a-947c-74438308b88c" name="Changes" comment="hm4">
+    <list default="true" id="d7d0d231-e240-479a-947c-74438308b88c" name="Changes" comment="hm5">
+      <change afterPath="$PROJECT_DIR$/Homework/how6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/how6/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/how5/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/how5/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,9 @@
       <workItem from="1676747403424" duration="2988000" />
       <workItem from="1677102488445" duration="1111000" />
       <workItem from="1677359447274" duration="624000" />
-      <workItem from="1677620742449" duration="6309000" />
+      <workItem from="1677620742449" duration="7620000" />
+      <workItem from="1677674201158" duration="2071000" />
+      <workItem from="1677676313549" duration="6821000" />
     </task>
     <task id="LOCAL-00001" summary="hm1">
       <created>1676751206925</created>
@@ -105,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677623431835</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hm5">
+      <created>1677627144573</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677627144573</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +126,7 @@
     <MESSAGE value="hm2" />
     <MESSAGE value="hm3" />
     <MESSAGE value="hm4" />
-    <option name="LAST_COMMIT_MESSAGE" value="hm4" />
+    <MESSAGE value="hm5" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm5" />
   </component>
 </project>
